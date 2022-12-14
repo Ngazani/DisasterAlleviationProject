@@ -1,0 +1,35 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Goods_Donations.IndexModel
+@{
+}
+
+<br>
+<h1>List Of Donations</h1>
+<a class="btn btn-warning btn-sm" href='Goods_Donations/Capture_Donation'>Capture Goods Donation</a>
+<h3>Total Amount of goods donated: @Pages.Goods_Donations.goods.qty</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th>Description</th>
+            <th>Donor</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.displayGoods)
+        {
+            <tr>
+                <td>@row.id</td>
+                <td>@row.date</td>
+                <td>@row.quantity</td>
+                <td>@row.category</td>
+                <td>@row.description</td>
+                <td>@row.donor</td>
+                <td><a class="btn btn-warning btn-sm" href="Users/Edit?id=@row.id">Modify Donation</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

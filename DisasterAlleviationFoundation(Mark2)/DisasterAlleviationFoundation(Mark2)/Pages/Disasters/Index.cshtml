@@ -1,0 +1,37 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Disasters.IndexModel
+@{
+}
+
+<br>
+<h1>List Of Disasters</h1>
+<a class="btn btn-warning btn-sm" href='Disasters/Capture_Disaser'>Capture Disaster</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Location</th>
+            <th>Description</th>
+            <th>Aid</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.displayDisasters)
+        {
+            <tr>
+                <td>@row.id</td>
+                <td>@row.start</td>
+                <td>@row.end</td>
+                <td>@row.location</td>
+                <td>@row.description</td>
+                <td>@row.aid</td>
+                <td>@row.status</td>
+                <td><a class="btn btn-warning btn-sm" href="Users/Edit?id=@row.id">Modify Donation</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

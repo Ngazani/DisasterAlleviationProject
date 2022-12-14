@@ -1,0 +1,59 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Monetary_Donations.Capture_DonationModel
+@{
+}
+<br />
+<h1> Capture Monetary Donation</h1>
+
+@if (Model.err.Length > 0)
+{
+    <div class=" alert alert-warning alert-danger fade show" role="alert">
+        <strong>@Model.err</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+
+<form method="post">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Date:</label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="date" value="@Model.monetary.date" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Amount:</label>
+        <div class="col-sm-6">
+            <input type="number" class="form-control" name="amount" value="@Model.monetary.amount" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Donor:</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="donor" value="@Model.monetary.donor" />
+        </div>
+    </div>
+
+    @if (Model.succ.Length > 0)
+    {
+        <div class="row mb-3">
+            <div class="col-sm-9">
+                <div class=" alert alert-success  fade show" role="alert">
+                    <strong>@Model.succ</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-warning">Capture Donation</button>
+        </div>
+
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <a class="btn btn-outline-warning" asp-page="Index" role="button">Back To List</a>
+        </div>
+</form>
+

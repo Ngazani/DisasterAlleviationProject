@@ -1,0 +1,132 @@
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).staticwebassets.runtime.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).exe
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).deps.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).runtimeconfig.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.AssemblyReference.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfoInputs.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfo.cs
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CoreCompileInputs.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cs
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\bundle\DisasterAlleviationFoundation(Mark2).styles.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\projectbundle\DisasterAlleviationFoundation(Mark2).bundle.scp.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CopyComplete
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\refint\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).genruntimeconfig.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\ref\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).staticwebassets.runtime.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).exe
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).deps.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).runtimeconfig.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfo.cs
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cs
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\bundle\DisasterAlleviationFoundation(Mark2).styles.css
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\projectbundle\DisasterAlleviationFoundation(Mark2).bundle.scp.css
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CopyComplete
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\refint\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).genruntimeconfig.cache
+C:\Users\User\Downloads\Ngazii's Stuff\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\ref\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).staticwebassets.runtime.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).exe
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).deps.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).runtimeconfig.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.AssemblyReference.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfoInputs.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfo.cs
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CoreCompileInputs.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cs
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\bundle\DisasterAlleviationFoundation(Mark2).styles.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\projectbundle\DisasterAlleviationFoundation(Mark2).bundle.scp.css
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CopyComplete
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\refint\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).genruntimeconfig.cache
+C:\Users\ST10128022\OneDrive - ADvTECH Ltd\School Stuff\APPR\Disaster(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\ref\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\appsettings.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).staticwebassets.runtime.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).exe
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).deps.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).runtimeconfig.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.AssemblyReference.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfoInputs.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).AssemblyInfo.cs
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CoreCompileInputs.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).RazorAssemblyInfo.cs
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\bundle\DisasterAlleviationFoundation(Mark2).styles.css
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\scopedcss\projectbundle\DisasterAlleviationFoundation(Mark2).bundle.scp.css
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).csproj.CopyComplete
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\refint\DisasterAlleviationFoundation(Mark2).dll
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).pdb
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\DisasterAlleviationFoundation(Mark2).genruntimeconfig.cache
+C:\Users\Uncle Ngazii\Source\Repos\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\DisasterAlleviationFoundation(Mark2)\obj\Debug\net6.0\ref\DisasterAlleviationFoundation(Mark2).dll

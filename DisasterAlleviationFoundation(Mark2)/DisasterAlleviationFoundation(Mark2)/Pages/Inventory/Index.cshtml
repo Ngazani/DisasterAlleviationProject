@@ -1,0 +1,34 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Inventory.IndexModel
+@{
+}
+
+
+<br>
+<h1>Goods Inventory</h1>
+<a class="btn btn-warning btn-sm" href='Purchases/AllocateGoods'>Allocate From Inventory</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th>Description</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.displayInventory)
+        {
+            <tr>
+                <td>@row.id</td>
+                <td>@row.date</td>
+                <td>@row.quantity</td>
+                <td>@row.category</td>
+                <td>@row.description</td>
+                <td><a class="btn btn-warning btn-sm" href="Users/Edit?id=@row.id">Modify Donation</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

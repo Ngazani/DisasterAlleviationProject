@@ -1,0 +1,103 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Categories.Purchases.AllocateGoodsModel
+@{
+}
+
+<br />
+<h1> Allocate Goods</h1>
+
+
+@if (Model.err.Length > 0)
+{
+    <div class=" alert alert-warning alert-danger fade show" role="alert">
+        <strong>@Model.err</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+
+<form method="post">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Item Name:</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="item" value="@Model.allocate.item" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Quantity:</label>
+        <div class="col-sm-6">
+            <input type="number" class="form-control" name="quantity" value="@Model.allocate.quantity" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Category:</label>
+        <div class="col-sm-6">
+            <select class="form-select" aria-label="Default select example" name="category">
+                <option selected>Select Category</option>
+                <option value="Non-Perishable Foods">Non Perishable Foods</option>
+                <option value="Clothes">Clothes</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Disaster Name:</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="disaster" value="@Model.allocate.disaster" />
+        </div>
+    </div>
+
+    @if (Model.succ.Length > 0)
+    {
+        <div class="row mb-3">
+            <div class="col-sm-9">
+                <div class=" alert alert-success  fade show" role="alert">
+                    <strong>@Model.succ</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-warning">Allocate Goods</button>
+        </div>
+
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <a class="btn btn-outline-warning" asp-page="Index" role="button">Back To List</a>
+        </div>
+</form>
+
+
+
+<br>
+<h1>List Of Allocations</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Item</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th>Disaster Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.allocations)
+        {
+            <tr>
+                <td>@row.id</td>
+                <td>@row.item</td>
+                <td>@row.quantity</td>
+                <td>@row.category</td>
+                <td>@row.disaster</td>
+
+                <td><a class="btn btn-warning btn-sm" href="Users/Edit?id=@row.id">Modify Donation</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

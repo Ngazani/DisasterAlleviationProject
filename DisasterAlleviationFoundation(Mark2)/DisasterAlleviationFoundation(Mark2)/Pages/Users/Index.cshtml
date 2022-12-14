@@ -1,0 +1,28 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Users.IndexModel
+@{
+}
+<br>
+<h1>List Of Users</h1>
+<a class="btn btn-warning btn-sm" href='Users/Register'>Register User</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var row in Model.displayUsers)
+        {<tr>
+            <td>@row.id</td>
+            <td>@row.Uname</td>
+            <td>@row.email</td>
+            <td>@row.Utype</td>
+            <td><a class="btn btn-warning btn-sm" href="Users/Edit?id=@row.id">Modify User</a></td>
+          </tr>
+        }
+    </tbody>
+</table>

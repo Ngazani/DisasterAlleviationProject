@@ -1,0 +1,82 @@
+﻿@page
+@model DisasterAlleviationFoundation_Mark2_.Pages.Goods_Donations.Capture_DonationModel
+@{
+}
+
+<br />
+<h1> Capture Goods Donation</h1>
+
+@if (Model.err.Length > 0)
+{
+    <div class=" alert alert-warning alert-danger fade show" role="alert">
+        <strong>@Model.err</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+    </div>
+}
+
+<form method="post">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Date:</label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="date" value="@Model.good.date" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Quantity:</label>
+        <div class="col-sm-6">
+            <input type="number" class="form-control" name="quantity" value="@Model.good.quantity" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Category:</label>
+        <div class="col-sm-6">
+            <select class="form-select" aria-label="Default select example" name="category">
+                <option selected>Select Category</option>
+                <option value="Non-Perishable Foods">Non Perishable Foods</option>
+                <option value="Clothes">Clothes</option>
+                @foreach (var item in Model.displayCategories)
+                {
+                    <option value="@item.name">@item.name</option>
+                }
+               
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Description:</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="description" value="@Model.good.description" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Donor:</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="donor" value="@Model.good.donor" />
+        </div>
+    </div>
+
+    @if (Model.succ.Length > 0)
+    {
+        <div class="row mb-3">
+            <div class="col-sm-9">
+                <div class=" alert alert-success  fade show" role="alert">
+                    <strong>@Model.succ</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-warning">Capture Donation</button>
+        </div>
+
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <a class="btn btn-outline-warning" asp-page="Index" role="button">Back To List</a>
+        </div>
+</form>
